@@ -1,0 +1,72 @@
+1. Elaborar um programa em C que defina uma função chamada hipotenusa que
+calcule o tamanho da hipotenusa de um triângulo retângulo quando os outros dois
+lados são conhecidos. Use essa função em um programa para determinar o tamanho
+da hipotenusa de cada um dos triângulos da tabela abaixo. A função deverá usar dois
+argumentos do tipo double e retornar a hipotenusa como um double.
+
+
+
+2. Elaborar um programa em C que escreva uma função chamada multiplo que
+determine para um par de inteiros, se o segundo inteiro é múltiplo do primeiro. A
+função deve receber dois argumentos e retornar 1 (verdadeiro), se o segundo for um
+múltiplo do primeiro e 0 (falso), caso contrário. Use essa função em um programa que
+faça a leitura de 10 pares de inteiros.
+
+Triângulo Lado 1 Lado 2
+1 3.0 4.0
+2 5.0 12.0
+3 8.0 15.0
+
+Exercícios
+
+3. Elaborar um programa em C para escrever a
+soma S dos n termos, sendo 0 ≤ n ≤ 100 (é
+necessário fazer a proteção de dados no código).
+O cálculo do fatorial de um número deverá ser
+realizado através de uma função.
+
+– Exemplo (n=5):
+S =
+n
+1!
++
+n -1
+2!
++
+n -2
+3!
++...
+
+S =
+5
+1!
++
+4
+2!
++
+3
+3!
++
+2
+4!
++
+1
+5!
+
+Exercícios
+
+4. Elaborar um programa em C que realize as operações
+apresentadas abaixo. Dois números devem ser lidos do teclado e
+uma opção deve ser digitada. Nas opções 1, 2, 3 e 4 devem ser
+utilizadas funções.
+
+Estrutura de Dados (ED)
+Aplicação de Funções
+
+Multiplicação de Dois Números ............................................... [1]
+Divisão de Dois Números .......................................................... [2]
+Raiz Quadrada do Primeiro Número ........................................ [3]
+Segundo Número Elevado ao Quadrado ................................. [4]
+Sair ................................................................................................. [5]
+
+Entre com a opção desejada:

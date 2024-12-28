@@ -1,0 +1,17 @@
+1. Elaborar um programa que leia os dados de 4 alunos (nome,
+matrícula e três notas) usando uma struct. Em seguida,
+encontre e imprima o nome e a matrícula do aluno com a
+maior média geral.
+
+2. Elaborar um programa que leia os dados de 4 produtos
+(nome, preço unitário e quantidade em estoque) usando
+uma struct. Encontre e imprima o nome e o preço do
+produto mais caro e do produto mais barato. Deve-se
+imprimir também o valor total arrecadado se todas as
+quantidades em estoque dos produtos forem vendidas.
+
+3. Elaborar um programa que leia os dados de 4 funcionários
+(nome, salário e tempo de serviço em anos) usando uma
+struct. Calcule e imprima a média salarial dos funcionários e
+o nome e o tempo de serviço do funcionário com mais
+tempo na empresa.

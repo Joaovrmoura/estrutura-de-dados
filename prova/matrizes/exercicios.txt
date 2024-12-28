@@ -1,0 +1,49 @@
+Exercícios (Matrizes)
+
+1. Dada uma matriz 4x4 de valores reais e positivos, elaborar um
+programa em C para somar os valores da Diagonal Principal
+(DP) e o produto dos valores da Diagonal Secundária (DS),
+mostrando o resultado da soma e do produto no final.
+
+2. Dada uma matriz 4x4 de valores inteiros e positivos, elaborar
+um programa em C para calcular e imprimir o total e a soma
+dos números pares e ímpares armazenados nela. Além disso
+deve-se calcular o total de pares da DP e a soma dos ímpares
+da DS.
+
+3. Elaborar um programa em C que leia uma matriz 4x4 com
+números inteiros, calcule e mostre a soma:
+– Dos elementos da linha 4;
+– Dos elementos da coluna 2;
+– De todos os elementos da matriz.
+
+
+4. Elaborar um programa em C que leia duas matrizes A
+e B de números inteiros (de tamanho (5x5)) e, em
+seguida, imprima uma matriz C de mesmo tamanho
+definida como:
+
+– C[i,j] = A[i,j], se i ≤ j;
+– C[i,j] = B[i,j], caso contrário.
+
+
+5. Dada uma matriz 4x4 de valores reais e positivos,
+elaborar um programa em C para calcular e imprimir a
+soma dos elementos situados acima da diagonal
+secundária da matriz, incluindo os elementos da
+própria diagonal secundária.
+
+
+6. Elaborar um programa em C que leia um número
+inteiro e gere uma matriz A3x3 ,onde cada elemento
+da matriz A será o número lido elevado a (i+j), sendo i
+a i-ésima linha da matriz a e j a j-ésima linha da matriz A.
+
+
+7. Elaborar um programa em C que leia uma matriz 4x4
+de números inteiros e positivos. Em seguida, verifique
+a quantidade de elementos pares contidos em cada
+linha da matriz atribuindo o resultado a um vetor e
+verifique a quantidade de elementos ímpares
+contidos em cada coluna da matriz atribuindo o
+resultado a outro vetor.
